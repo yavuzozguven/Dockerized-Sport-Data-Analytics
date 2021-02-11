@@ -1,0 +1,735 @@
+2021-02-05 15:34:11 INFO  SparkContext:54 - Running Spark version 2.2.3
+2021-02-05 15:34:12 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:34:12 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 15:34:12 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 15:34:12 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 15:34:12 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 15:34:12 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 15:34:12 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:34:13 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 35145.
+2021-02-05 15:34:13 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 15:34:13 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 15:34:13 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:34:13 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 15:34:13 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-114c88d5-6dd6-4d69-bc71-50667da2de92
+2021-02-05 15:34:13 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 15:34:13 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 15:34:13 INFO  DiskBlockManager:54 - Shutdown hook called
+2021-02-05 15:34:13 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 15:34:13 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-e2c2735a-c3a5-44e7-b6e2-cb7cc2bcd23b/userFiles-d147ed0c-9e92-41b0-8070-6a69b4ffccf2
+2021-02-05 15:34:13 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-e2c2735a-c3a5-44e7-b6e2-cb7cc2bcd23b
+2021-02-05 15:34:24 INFO  SparkContext:54 - Running Spark version 2.2.3
+2021-02-05 15:34:25 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:34:25 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 15:34:25 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 15:34:25 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 15:34:25 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 15:34:25 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 15:34:25 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:34:26 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 40173.
+2021-02-05 15:34:26 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 15:34:26 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 15:34:26 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:34:26 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 15:34:26 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-7d6ab545-52ca-4a61-b6b9-66d2f050f018
+2021-02-05 15:34:26 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 15:34:26 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 15:34:26 INFO  DiskBlockManager:54 - Shutdown hook called
+2021-02-05 15:34:26 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 15:34:26 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-25ebbb52-0a87-4726-b201-31021c985dd0
+2021-02-05 15:34:26 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-25ebbb52-0a87-4726-b201-31021c985dd0/userFiles-c482c5f1-568f-45ac-abf2-5d435da57d8c
+2021-02-05 15:48:47 INFO  SparkContext:54 - Running Spark version 2.3.2
+2021-02-05 15:48:48 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:48:48 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 15:48:48 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 15:48:48 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 15:48:48 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 15:48:48 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 15:48:48 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:48:49 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 39387.
+2021-02-05 15:48:49 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 15:48:49 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 15:48:49 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:48:49 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 15:48:49 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-5191a0a0-6f85-4a52-bbf0-be13bf8a8486
+2021-02-05 15:48:49 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 15:48:49 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 15:48:49 INFO  log:192 - Logging initialized @3886ms
+2021-02-05 15:48:49 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-02-05 15:48:49 INFO  Server:419 - Started @3992ms
+2021-02-05 15:48:49 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-02-05 15:48:49 INFO  AbstractConnector:278 - Started ServerConnector@2ea993af{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 15:48:49 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4041.
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77192705{/jobs,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2cf92cc7{/jobs/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30ea8c23{/jobs/job,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4e76dac{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@611df6e3{/stages,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5f2f577{/stages/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6273c5a4{/stages/stage,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@41a90fa8{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3d8bbcdc{/stages/pool,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@52500920{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@117e0fe5{/storage,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@18a3962d{/storage/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@78aea4b9{/storage/rdd,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a65bb85{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4b85880b{/environment,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4f936da8{/environment/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4215838f{/executors,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@452ba1db{/executors/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2289aca5{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@76a36b71{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@184497d1{/static,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bda80bf{/,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@71e5f61d{/api,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@fd46303{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@60d8c0dc{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-02-05 15:48:49 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 15:48:50 INFO  Executor:54 - Starting executor ID driver on host localhost
+2021-02-05 15:48:50 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 32995.
+2021-02-05 15:48:50 INFO  NettyBlockTransferService:54 - Server created on ubuntu.internal.cloudapp.net:32995
+2021-02-05 15:48:50 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 15:48:50 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 32995, None)
+2021-02-05 15:48:50 INFO  BlockManagerMasterEndpoint:54 - Registering block manager ubuntu.internal.cloudapp.net:32995 with 884.7 MB RAM, BlockManagerId(driver, ubuntu.internal.cloudapp.net, 32995, None)
+2021-02-05 15:48:50 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 32995, None)
+2021-02-05 15:48:50 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, ubuntu.internal.cloudapp.net, 32995, None)
+2021-02-05 15:48:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77e80a5e{/metrics/json,null,AVAILABLE,@Spark}
+2021-02-05 15:48:50 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 235.2 KB, free 884.5 MB)
+2021-02-05 15:48:51 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 22.9 KB, free 884.4 MB)
+2021-02-05 15:48:51 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on ubuntu.internal.cloudapp.net:32995 (size: 22.9 KB, free: 884.7 MB)
+2021-02-05 15:48:51 INFO  SparkContext:54 - Created broadcast 0 from textFile at Main.scala:8
+2021-02-05 15:48:51 INFO  FileInputFormat:249 - Total input paths to process : 1
+2021-02-05 15:48:51 INFO  SparkContext:54 - Starting job: collect at Main.scala:64
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Got job 0 (collect at Main.scala:64) with 1 output partitions
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Parents of final stage: List()
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Missing parents: List()
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68), which has no missing parents
+2021-02-05 15:48:51 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
+2021-02-05 15:48:51 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
+2021-02-05 15:48:51 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:32995 (size: 2.3 KB, free: 884.7 MB)
+2021-02-05 15:48:51 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:48:51 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2021-02-05 15:48:51 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
+2021-02-05 15:48:51 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2021-02-05 15:48:51 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/MaRe/players_20.csv:0+8945067
+2021-02-05 15:48:54 INFO  DockerHelper$:103 - Running container 'ee4206c541ee26fab13b5b9fbbcce405cee89534da68d0e83c55db3602b8383f' (image: 'anomaly:latest', command: 'java -jar project.jar > count.txt'
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/project.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO SparkContext: Running Spark version 3.1.0
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO ResourceUtils: ==============================================================
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO ResourceUtils: No custom resources configured for spark.driver.
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO ResourceUtils: ==============================================================
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO SparkContext: Submitted application: Predict
+2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:57 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO ResourceProfile: Limiting resource is cpu
+21/02/05 15:48:58 INFO ResourceProfileManager: Added ResourceProfile id: 0
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SecurityManager: Changing view acls to: root
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SecurityManager: Changing modify acls to: root
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SecurityManager: Changing view acls groups to:
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SecurityManager: Changing modify acls groups to:
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO Utils: Successfully started service 'sparkDriver' on port 37185.
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SparkEnv: Registering MapOutputTracker
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SparkEnv: Registering BlockManagerMaster
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-d096fbaa-447a-4c54-9c82-d7567fc40232
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO MemoryStore: MemoryStore started with capacity 1017.6 MiB
+2021-02-05 15:48:58 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:58 INFO SparkEnv: Registering OutputCommitCoordinator
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://ee4206c541ee:4040
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO Executor: Starting executor ID driver on host ee4206c541ee
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40905.
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO NettyBlockTransferService: Server created on ee4206c541ee:40905
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, ee4206c541ee, 40905, None)
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO BlockManagerMasterEndpoint: Registering block manager ee4206c541ee:40905 with 1017.6 MiB RAM, BlockManagerId(driver, ee4206c541ee, 40905, None)
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, ee4206c541ee, 40905, None)
+2021-02-05 15:48:59 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:48:59 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, ee4206c541ee, 40905, None)
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConnectionPool: [[id: 0x80cd5c05, L:/172.17.0.2:42464 - R:40.114.67.6/40.114.67.6:6650]] Connected to server
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConsumerStatsRecorderImpl: Starting Pulsar consumer status recorder with config: {
+  "topicNames" : [ "test-first" ],
+  "topicsPattern" : null,
+  "subscriptionName" : "subscription",
+  "subscriptionType" : "Exclusive",
+  "subscriptionMode" : "Durable",
+  "receiverQueueSize" : 1000,
+  "acknowledgementsGroupTimeMicros" : 100000,
+  "negativeAckRedeliveryDelayMicros" : 60000000,
+  "maxTotalReceiverQueueSizeAcrossPartitions" : 50000,
+  "consumerName" : null,
+  "ackTimeoutMillis" : 0,
+  "tickDurationMillis" : 1000,
+  "priorityLevel" : 0,
+  "maxPendingChuckedMessage" : 10,
+  "autoAckOldestChunkedMessageOnQueueFull" : false,
+  "expireTimeOfIncompleteChunkedMessageMillis" : 60000,
+  "cryptoFailureAction" : "FAIL",
+  "properties" : { },
+  "readCompacted" : false,
+  "subscriptionInitialPosition" : "Latest",
+  "patternAutoDiscoveryPeriod" : 60,
+  "regexSubscriptionMode" : "PersistentOnly",
+  "deadLetterPolicy" : null,
+  "retryEnable" : false,
+  "autoUpdatePartitions" : true,
+  "autoUpdatePartitionsIntervalSeconds" : 60,
+  "replicateSubscriptionState" : false,
+  "resetIncludeHead" : false,
+  "keySharedPolicy" : null,
+  "batchIndexAckEnabled" : false
+}
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConsumerStatsRecorderImpl: Pulsar client config: {
+  "serviceUrl" : "pulsar://40.114.67.6:6650",
+  "authPluginClassName" : null,
+  "operationTimeoutMs" : 30000,
+  "statsIntervalSeconds" : 60,
+  "numIoThreads" : 1,
+  "numListenerThreads" : 1,
+  "connectionsPerBroker" : 1,
+  "useTcpNoDelay" : true,
+  "useTls" : false,
+  "tlsTrustCertsFilePath" : "",
+  "tlsAllowInsecureConnection" : false,
+  "tlsHostnameVerificationEnable" : false,
+  "concurrentLookupRequest" : 5000,
+  "maxLookupRequest" : 50000,
+  "maxLookupRedirects" : 20,
+  "maxNumberOfRejectedRequestPerConnection" : 50,
+  "keepAliveIntervalSeconds" : 30,
+  "connectionTimeoutMs" : 10000,
+  "requestTimeoutMs" : 60000,
+  "initialBackoffIntervalNanos" : 100000000,
+  "maxBackoffIntervalNanos" : 60000000000,
+  "listenerName" : null,
+  "useKeyStoreTls" : false,
+  "sslProvider" : null,
+  "tlsTrustStoreType" : "JKS",
+  "tlsTrustStorePath" : null,
+  "tlsTrustStorePassword" : null,
+  "tlsCiphers" : [ ],
+  "tlsProtocols" : [ ],
+  "proxyServiceUrl" : null,
+  "proxyProtocol" : null
+}
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConnectionPool: [[id: 0x05fc138a, L:/172.17.0.2:42466 - R:40.114.67.6/40.114.67.6:6650]] Connected to server
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ClientCnx: [id: 0x05fc138a, L:/172.17.0.2:42466 - R:40.114.67.6/40.114.67.6:6650] Connected through proxy to target broker at 0.0.0.0:6650
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConsumerImpl: [test-first][subscription] Subscribing to topic on cnx [id: 0x05fc138a, L:/172.17.0.2:42466 - R:40.114.67.6/40.114.67.6:6650]
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO ConsumerImpl: [test-first][subscription] Subscribed to topic on 40.114.67.6/40.114.67.6:6650 -- consumer: 0
+2021-02-05 15:49:00 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:00 INFO IsolationForestModelReadWrite: Loading IsolationForestModel metadata from path model/metadata
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO MemoryStore: Block broadcast_0 stored as values in memory (estimated size 175.9 KiB, free 1017.4 MiB)
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 27.1 KiB, free 1017.4 MiB)
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO BlockManagerInfo: Added broadcast_0_piece0 in memory on ee4206c541ee:40905 (size: 27.1 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO SparkContext: Created broadcast 0 from textFile at IsolationForestModelReadWrite.scala:192
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO FileInputFormat: Total input files to process : 1
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO SparkContext: Starting job: first at IsolationForestModelReadWrite.scala:192
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO DAGScheduler: Got job 0 (first at IsolationForestModelReadWrite.scala:192) with 1 output partitions
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO DAGScheduler: Final stage: ResultStage 0 (first at IsolationForestModelReadWrite.scala:192)
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO DAGScheduler: Parents of final stage: List()
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO DAGScheduler: Missing parents: List()
+2021-02-05 15:49:01 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:01 INFO DAGScheduler: Submitting ResultStage 0 (model/metadata MapPartitionsRDD[1] at textFile at IsolationForestModelReadWrite.scala:192), which has no missing parents
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO MemoryStore: Block broadcast_1 stored as values in memory (estimated size 4.1 KiB, free 1017.4 MiB)
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.4 KiB, free 1017.4 MiB)
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO BlockManagerInfo: Added broadcast_1_piece0 in memory on ee4206c541ee:40905 (size: 2.4 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO SparkContext: Created broadcast 1 from broadcast at DAGScheduler.scala:1383
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 0 (model/metadata MapPartitionsRDD[1] at textFile at IsolationForestModelReadWrite.scala:192) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO TaskSchedulerImpl: Adding task set 0.0 with 1 tasks resource profile 0
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO TaskSetManager: Starting task 0.0 in stage 0.0 (TID 0) (ee4206c541ee, executor driver, partition 0, PROCESS_LOCAL, 7372 bytes) taskResourceAssignments Map()
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO Executor: Running task 0.0 in stage 0.0 (TID 0)
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO HadoopRDD: Input split: file:/model/metadata/part-00000:0+454
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 1425 bytes result sent to driver
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 210 ms on ee4206c541ee (executor driver) (1/1)
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO DAGScheduler: ResultStage 0 (first at IsolationForestModelReadWrite.scala:192) finished in 0.347 s
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO DAGScheduler: Job 0 is finished. Cancelling potential speculative or zombie tasks for this job
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO TaskSchedulerImpl: Killing all running tasks in stage 0: Stage finished
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO DAGScheduler: Job 0 finished: first at IsolationForestModelReadWrite.scala:192, took 0.451044 s
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO IsolationForestModelReadWrite: Loading IsolationForestModel tree data from path model/data
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO SharedState: Setting hive.metastore.warehouse.dir ('null') to the value of spark.sql.warehouse.dir ('file:/spark-warehouse').
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO SharedState: Warehouse path is 'file:/spark-warehouse'.
+2021-02-05 15:49:02 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:02 INFO BlockManagerInfo: Removed broadcast_1_piece0 on ee4206c541ee:40905 in memory (size: 2.4 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:03 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:03 INFO BlockManagerInfo: Removed broadcast_0_piece0 on ee4206c541ee:40905 in memory (size: 27.1 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:03 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:03 INFO InMemoryFileIndex: It took 20 ms to list leaf files for 1 paths.
+2021-02-05 15:49:05 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:05 INFO FileSourceStrategy: Pushed Filters:
+2021-02-05 15:49:05 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:05 INFO FileSourceStrategy: Post-Scan Filters:
+2021-02-05 15:49:05 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:05 INFO FileSourceStrategy: Output Data Schema: struct<treeID: int, nodeData: struct<id: int, leftChild: int, rightChild: int, splitAttribute: int, splitValue: double ... 1 more field>>
+2021-02-05 15:49:05 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:05 INFO MemoryStore: Block broadcast_2 stored as values in memory (estimated size 174.0 KiB, free 1017.4 MiB)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO MemoryStore: Block broadcast_2_piece0 stored as bytes in memory (estimated size 27.4 KiB, free 1017.4 MiB)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO BlockManagerInfo: Added broadcast_2_piece0 in memory on ee4206c541ee:40905 (size: 27.4 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO SparkContext: Created broadcast 2 from rdd at IsolationForestModelReadWrite.scala:92
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO FileSourceScanExec: Planning scan with bin packing, max size: 4264010 bytes, open cost is considered as scanning 4194304 bytes.
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO SparkContext: Starting job: collect at IsolationForestModelReadWrite.scala:96
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Registering RDD 7 (map at IsolationForestModelReadWrite.scala:93) as input to shuffle 1
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Registering RDD 9 (map at IsolationForestModelReadWrite.scala:95) as input to shuffle 0
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Got job 1 (collect at IsolationForestModelReadWrite.scala:96) with 1 output partitions
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Final stage: ResultStage 3 (collect at IsolationForestModelReadWrite.scala:96)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 2)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Missing parents: List(ShuffleMapStage 2)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Submitting ShuffleMapStage 1 (MapPartitionsRDD[7] at map at IsolationForestModelReadWrite.scala:93), which has no missing parents
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO MemoryStore: Block broadcast_3 stored as values in memory (estimated size 19.4 KiB, free 1017.4 MiB)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO MemoryStore: Block broadcast_3_piece0 stored as bytes in memory (estimated size 8.0 KiB, free 1017.4 MiB)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO BlockManagerInfo: Added broadcast_3_piece0 in memory on ee4206c541ee:40905 (size: 8.0 KiB, free: 1017.6 MiB)
+21/02/05 15:49:06 INFO SparkContext: Created broadcast 3 from broadcast at DAGScheduler.scala:1383
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 1 (MapPartitionsRDD[7] at map at IsolationForestModelReadWrite.scala:93) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO TaskSchedulerImpl: Adding task set 1.0 with 1 tasks resource profile 0
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO TaskSetManager: Starting task 0.0 in stage 1.0 (TID 1) (ee4206c541ee, executor driver, partition 0, PROCESS_LOCAL, 7762 bytes) taskResourceAssignments Map()
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO Executor: Running task 0.0 in stage 1.0 (TID 1)
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO CodeGenerator: Code generated in 289.911993 ms
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO FileScanRDD: Reading File path: file:///model/data/part-00000-e14bdc41-171c-49b1-b174-48a0073c639e-c000.avro, range: 0-69706, partition values: [empty row]
+2021-02-05 15:49:06 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:06 INFO CodeGenerator: Code generated in 79.218163 ms
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO Executor: Finished task 0.0 in stage 1.0 (TID 1). 1707 bytes result sent to driver
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSetManager: Finished task 0.0 in stage 1.0 (TID 1) in 927 ms on ee4206c541ee (executor driver) (1/1)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSchedulerImpl: Removed TaskSet 1.0, whose tasks have all completed, from pool
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: ShuffleMapStage 1 (map at IsolationForestModelReadWrite.scala:93) finished in 0.957 s
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: looking for newly runnable stages
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: running: Set()
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: waiting: Set(ShuffleMapStage 2, ResultStage 3)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: failed: Set()
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: Submitting ShuffleMapStage 2 (MapPartitionsRDD[9] at map at IsolationForestModelReadWrite.scala:95), which has no missing parents
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO MemoryStore: Block broadcast_4 stored as values in memory (estimated size 20.8 KiB, free 1017.4 MiB)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO MemoryStore: Block broadcast_4_piece0 stored as bytes in memory (estimated size 8.7 KiB, free 1017.3 MiB)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO BlockManagerInfo: Added broadcast_4_piece0 in memory on ee4206c541ee:40905 (size: 8.7 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO SparkContext: Created broadcast 4 from broadcast at DAGScheduler.scala:1383
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: Submitting 1 missing tasks from ShuffleMapStage 2 (MapPartitionsRDD[9] at map at IsolationForestModelReadWrite.scala:95) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSchedulerImpl: Adding task set 2.0 with 1 tasks resource profile 0
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSetManager: Starting task 0.0 in stage 2.0 (TID 2) (ee4206c541ee, executor driver, partition 0, NODE_LOCAL, 7132 bytes) taskResourceAssignments Map()
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO Executor: Running task 0.0 in stage 2.0 (TID 2)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO ShuffleBlockFetcherIterator: Getting 1 (120.5 KiB) non-empty blocks including 1 (120.5 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 11 ms
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO Executor: Finished task 0.0 in stage 2.0 (TID 2). 1965 bytes result sent to driver
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSetManager: Finished task 0.0 in stage 2.0 (TID 2) in 633 ms on ee4206c541ee (executor driver) (1/1)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: ShuffleMapStage 2 (map at IsolationForestModelReadWrite.scala:95) finished in 0.658 s
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: looking for newly runnable stages
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: running: Set()
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: waiting: Set(ResultStage 3)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: failed: Set()
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO DAGScheduler: Submitting ResultStage 3 (MapPartitionsRDD[11] at values at IsolationForestModelReadWrite.scala:96), which has no missing parents
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO MemoryStore: Block broadcast_5 stored as values in memory (estimated size 4.7 KiB, free 1017.3 MiB)
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO TaskSchedulerImpl: Removed TaskSet 2.0, whose tasks have all completed, from pool
+2021-02-05 15:49:07 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:07 INFO MemoryStore: Block broadcast_5_piece0 stored as bytes in memory (estimated size 2.6 KiB, free 1017.3 MiB)
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO BlockManagerInfo: Added broadcast_5_piece0 in memory on ee4206c541ee:40905 (size: 2.6 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO SparkContext: Created broadcast 5 from broadcast at DAGScheduler.scala:1383
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 3 (MapPartitionsRDD[11] at values at IsolationForestModelReadWrite.scala:96) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO TaskSchedulerImpl: Adding task set 3.0 with 1 tasks resource profile 0
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO TaskSetManager: Starting task 0.0 in stage 3.0 (TID 3) (ee4206c541ee, executor driver, partition 0, NODE_LOCAL, 7143 bytes) taskResourceAssignments Map()
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO Executor: Running task 0.0 in stage 3.0 (TID 3)
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO ShuffleBlockFetcherIterator: Getting 1 (61.8 KiB) non-empty blocks including 1 (61.8 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO BlockManagerInfo: Removed broadcast_3_piece0 on ee4206c541ee:40905 in memory (size: 8.0 KiB, free: 1017.6 MiB)
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO Executor: Finished task 0.0 in stage 3.0 (TID 3). 141398 bytes result sent to driver
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO TaskSetManager: Finished task 0.0 in stage 3.0 (TID 3) in 164 ms on ee4206c541ee (executor driver) (1/1)
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO DAGScheduler: ResultStage 3 (collect at IsolationForestModelReadWrite.scala:96) finished in 0.210 s
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO DAGScheduler: Job 1 is finished. Cancelling potential speculative or zombie tasks for this job
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO TaskSchedulerImpl: Removed TaskSet 3.0, whose tasks have all completed, from pool
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO TaskSchedulerImpl: Killing all running tasks in stage 3: Stage finished
+2021-02-05 15:49:08 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:49:08 INFO DAGScheduler: Job 1 finished: collect at IsolationForestModelReadWrite.scala:96, took 1.884031 s
+2021-02-05 15:52:33 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2021-02-05 15:52:33 INFO  AbstractConnector:318 - Stopped Spark@2ea993af{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 15:52:33 INFO  SparkUI:54 - Stopped Spark web UI at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 15:52:33 INFO  DAGScheduler:54 - Job 0 failed: collect at Main.scala:64, took 222.535387 s
+2021-02-05 15:52:33 INFO  DAGScheduler:54 - ResultStage 0 (collect at Main.scala:64) failed in 222.381 s due to Stage cancelled because SparkContext was shut down
+2021-02-05 15:52:33 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2021-02-05 15:52:33 INFO  MemoryStore:54 - MemoryStore cleared
+2021-02-05 15:52:33 INFO  BlockManager:54 - BlockManager stopped
+2021-02-05 15:52:33 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2021-02-05 15:52:33 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2021-02-05 15:52:33 INFO  SparkContext:54 - Successfully stopped SparkContext
+2021-02-05 15:52:33 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 15:52:33 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-7d36e73c-dbbf-40ca-a595-10030811df70
+2021-02-05 15:52:39 INFO  SparkContext:54 - Running Spark version 2.3.2
+2021-02-05 15:52:40 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:52:40 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 15:52:41 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 15:52:41 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 15:52:41 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 15:52:41 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 15:52:41 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:52:41 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 33993.
+2021-02-05 15:52:41 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 15:52:41 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 15:52:41 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:52:41 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 15:52:41 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-6bc276bb-6dc0-4cca-9ea6-2c4ac36e6b68
+2021-02-05 15:52:41 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 15:52:41 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 15:52:41 INFO  log:192 - Logging initialized @4459ms
+2021-02-05 15:52:41 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-02-05 15:52:41 INFO  Server:419 - Started @4553ms
+2021-02-05 15:52:41 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-02-05 15:52:41 INFO  AbstractConnector:278 - Started ServerConnector@48a4ae48{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 15:52:41 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4041.
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77192705{/jobs,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2cf92cc7{/jobs/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30ea8c23{/jobs/job,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4e76dac{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@611df6e3{/stages,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5f2f577{/stages/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6273c5a4{/stages/stage,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@41a90fa8{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:41 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3d8bbcdc{/stages/pool,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@52500920{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@117e0fe5{/storage,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@18a3962d{/storage/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@78aea4b9{/storage/rdd,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a65bb85{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4b85880b{/environment,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4f936da8{/environment/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4215838f{/executors,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@452ba1db{/executors/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2289aca5{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@76a36b71{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@184497d1{/static,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bda80bf{/,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@71e5f61d{/api,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@fd46303{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@60d8c0dc{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 15:52:42 INFO  Executor:54 - Starting executor ID driver on host localhost
+2021-02-05 15:52:42 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 42911.
+2021-02-05 15:52:42 INFO  NettyBlockTransferService:54 - Server created on ubuntu.internal.cloudapp.net:42911
+2021-02-05 15:52:42 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 15:52:42 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 42911, None)
+2021-02-05 15:52:42 INFO  BlockManagerMasterEndpoint:54 - Registering block manager ubuntu.internal.cloudapp.net:42911 with 884.7 MB RAM, BlockManagerId(driver, ubuntu.internal.cloudapp.net, 42911, None)
+2021-02-05 15:52:42 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 42911, None)
+2021-02-05 15:52:42 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, ubuntu.internal.cloudapp.net, 42911, None)
+2021-02-05 15:52:42 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77e80a5e{/metrics/json,null,AVAILABLE,@Spark}
+2021-02-05 15:52:42 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 235.2 KB, free 884.5 MB)
+2021-02-05 15:52:43 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 22.9 KB, free 884.4 MB)
+2021-02-05 15:52:43 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on ubuntu.internal.cloudapp.net:42911 (size: 22.9 KB, free: 884.7 MB)
+2021-02-05 15:52:43 INFO  SparkContext:54 - Created broadcast 0 from textFile at Main.scala:8
+2021-02-05 15:52:43 INFO  FileInputFormat:249 - Total input paths to process : 1
+2021-02-05 15:52:43 INFO  SparkContext:54 - Starting job: collect at Main.scala:64
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Got job 0 (collect at Main.scala:64) with 1 output partitions
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Parents of final stage: List()
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Missing parents: List()
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68), which has no missing parents
+2021-02-05 15:52:43 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
+2021-02-05 15:52:43 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
+2021-02-05 15:52:43 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:42911 (size: 2.3 KB, free: 884.7 MB)
+2021-02-05 15:52:43 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:52:43 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2021-02-05 15:52:43 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
+2021-02-05 15:52:43 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2021-02-05 15:52:43 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/MaRe/players_20.csv:0+8945067
+2021-02-05 15:52:46 INFO  DockerHelper$:103 - Running container 'a3c2e55df2bdb0970d4db74f0ba62141ef6ab010bbec029978130d9e0ba79d82' (image: 'anomaly:latest', command: 'java -jar project.jar > count.txt'
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/project.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 INFO SparkContext: Running Spark version 3.1.0
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 INFO ResourceUtils: ==============================================================
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 INFO ResourceUtils: No custom resources configured for spark.driver.
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 INFO ResourceUtils: ==============================================================
+2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:48 INFO SparkContext: Submitted application: Predict
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO ResourceProfile: Limiting resource is cpu
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO ResourceProfileManager: Added ResourceProfile id: 0
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SecurityManager: Changing view acls to: root
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SecurityManager: Changing modify acls to: root
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SecurityManager: Changing view acls groups to:
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SecurityManager: Changing modify acls groups to:
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO Utils: Successfully started service 'sparkDriver' on port 34081.
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SparkEnv: Registering MapOutputTracker
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SparkEnv: Registering BlockManagerMaster
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-d6edc45b-722c-46be-abbe-86421a305dea
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO MemoryStore: MemoryStore started with capacity 1017.6 MiB
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SparkEnv: Registering OutputCommitCoordinator
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+2021-02-05 15:52:49 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:49 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://a3c2e55df2bd:4040
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO Executor: Starting executor ID driver on host a3c2e55df2bd
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 35541.
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO NettyBlockTransferService: Server created on a3c2e55df2bd:35541
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, a3c2e55df2bd, 35541, None)
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO BlockManagerMasterEndpoint: Registering block manager a3c2e55df2bd:35541 with 1017.6 MiB RAM, BlockManagerId(driver, a3c2e55df2bd, 35541, None)
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, a3c2e55df2bd, 35541, None)
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, a3c2e55df2bd, 35541, None)
+2021-02-05 15:52:50 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:50 INFO ConnectionPool: [[id: 0x404eab0a, L:/172.17.0.3:55362 - R:40.114.67.6/40.114.67.6:6650]] Connected to server
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 INFO ConsumerStatsRecorderImpl: Starting Pulsar consumer status recorder with config: {
+  "topicNames" : [ "test-first" ],
+  "topicsPattern" : null,
+  "subscriptionName" : "subscription",
+  "subscriptionType" : "Exclusive",
+  "subscriptionMode" : "Durable",
+  "receiverQueueSize" : 1000,
+  "acknowledgementsGroupTimeMicros" : 100000,
+  "negativeAckRedeliveryDelayMicros" : 60000000,
+  "maxTotalReceiverQueueSizeAcrossPartitions" : 50000,
+  "consumerName" : null,
+  "ackTimeoutMillis" : 0,
+  "tickDurationMillis" : 1000,
+  "priorityLevel" : 0,
+  "maxPendingChuckedMessage" : 10,
+  "autoAckOldestChunkedMessageOnQueueFull" : false,
+  "expireTimeOfIncompleteChunkedMessageMillis" : 60000,
+  "cryptoFailureAction" : "FAIL",
+  "properties" : { },
+  "readCompacted" : false,
+  "subscriptionInitialPosition" : "Latest",
+  "patternAutoDiscoveryPeriod" : 60,
+  "regexSubscriptionMode" : "PersistentOnly",
+  "deadLetterPolicy" : null,
+  "retryEnable" : false,
+  "autoUpdatePartitions" : true,
+  "autoUpdatePartitionsIntervalSeconds" : 60,
+  "replicateSubscriptionState" : false,
+  "resetIncludeHead" : false,
+  "keySharedPolicy" : null,
+  "batchIndexAckEnabled" : false
+}
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 INFO ConsumerStatsRecorderImpl: Pulsar client config: {
+  "serviceUrl" : "pulsar://40.114.67.6:6650",
+  "authPluginClassName" : null,
+  "operationTimeoutMs" : 30000,
+  "statsIntervalSeconds" : 60,
+  "numIoThreads" : 1,
+  "numListenerThreads" : 1,
+  "connectionsPerBroker" : 1,
+  "useTcpNoDelay" : true,
+  "useTls" : false,
+  "tlsTrustCertsFilePath" : "",
+  "tlsAllowInsecureConnection" : false,
+  "tlsHostnameVerificationEnable" : false,
+  "concurrentLookupRequest" : 5000,
+  "maxLookupRequest" : 50000,
+  "maxLookupRedirects" : 20,
+  "maxNumberOfRejectedRequestPerConnection" : 50,
+  "keepAliveIntervalSeconds" : 30,
+  "connectionTimeoutMs" : 10000,
+  "requestTimeoutMs" : 60000,
+  "initialBackoffIntervalNanos" : 100000000,
+  "maxBackoffIntervalNanos" : 60000000000,
+  "listenerName" : null,
+  "useKeyStoreTls" : false,
+  "sslProvider" : null,
+  "tlsTrustStoreType" : "JKS",
+  "tlsTrustStorePath" : null,
+  "tlsTrustStorePassword" : null,
+  "tlsCiphers" : [ ],
+  "tlsProtocols" : [ ],
+  "proxyServiceUrl" : null,
+  "proxyProtocol" : null
+}
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 INFO ConnectionPool: [[id: 0x62ddb2d3, L:/172.17.0.3:55364 - R:40.114.67.6/40.114.67.6:6650]] Connected to server
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 INFO ClientCnx: [id: 0x62ddb2d3, L:/172.17.0.3:55364 - R:40.114.67.6/40.114.67.6:6650] Connected through proxy to target broker at 0.0.0.0:6650
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 INFO ConsumerImpl: [test-first][subscription] Subscribing to topic on cnx [id: 0x62ddb2d3, L:/172.17.0.3:55364 - R:40.114.67.6/40.114.67.6:6650]
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 WARN ClientCnx: [id: 0x62ddb2d3, L:/172.17.0.3:55364 - R:40.114.67.6/40.114.67.6:6650] Received error from server: Exclusive consumer is already connected
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: 21/02/05 15:52:51 WARN ConsumerImpl: [test-first][subscription] Failed to subscribe to topic on 40.114.67.6/40.114.67.6:6650
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: Exception in thread "main"
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: org.apache.pulsar.client.api.PulsarClientException$ConsumerBusyException: Exclusive consumer is already connected
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: at org.apache.pulsar.client.api.PulsarClientException.unwrap(PulsarClientException.java:886)
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: at org.apache.pulsar.client.impl.ConsumerBuilderImpl.subscribe(ConsumerBuilderImpl.java:101)
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: at com.yavuzozguven.Prediction$.main(Prediction.scala:25)
+2021-02-05 15:52:51 INFO  DockerHelper$:33 - STDERR: at com.yavuzozguven.Prediction.main(Prediction.scala)
+2021-02-05 16:02:37 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2021-02-05 16:02:37 INFO  AbstractConnector:318 - Stopped Spark@48a4ae48{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 16:02:37 INFO  SparkUI:54 - Stopped Spark web UI at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 16:02:37 INFO  DAGScheduler:54 - Job 0 failed: collect at Main.scala:64, took 594.328205 s
+2021-02-05 16:02:37 INFO  DAGScheduler:54 - ResultStage 0 (collect at Main.scala:64) failed in 594.090 s due to Stage cancelled because SparkContext was shut down
+2021-02-05 16:02:37 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2021-02-05 16:02:37 INFO  MemoryStore:54 - MemoryStore cleared
+2021-02-05 16:02:37 INFO  BlockManager:54 - BlockManager stopped
+2021-02-05 16:02:37 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2021-02-05 16:02:37 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2021-02-05 16:02:37 INFO  SparkContext:54 - Successfully stopped SparkContext
+2021-02-05 16:02:37 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 16:02:37 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-8b5c24db-431b-4005-bc4a-34b1731f9724
+2021-02-05 16:02:45 INFO  SparkContext:54 - Running Spark version 2.3.2
+2021-02-05 16:02:47 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 16:02:47 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 16:02:47 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 16:02:47 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 16:02:47 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 16:02:47 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 16:02:47 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 16:02:48 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 46515.
+2021-02-05 16:02:48 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 16:02:48 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 16:02:48 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 16:02:48 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 16:02:48 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-b5303045-fde2-40ad-a7be-bc04afb4e6ed
+2021-02-05 16:02:48 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 16:02:48 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 16:02:48 INFO  log:192 - Logging initialized @5341ms
+2021-02-05 16:02:48 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-02-05 16:02:49 INFO  Server:419 - Started @5539ms
+2021-02-05 16:02:49 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-02-05 16:02:49 INFO  AbstractConnector:278 - Started ServerConnector@5032afbf{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 16:02:49 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4041.
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77192705{/jobs,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2cf92cc7{/jobs/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30ea8c23{/jobs/job,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4e76dac{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@611df6e3{/stages,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5f2f577{/stages/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6273c5a4{/stages/stage,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@41a90fa8{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3d8bbcdc{/stages/pool,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@52500920{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@117e0fe5{/storage,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@18a3962d{/storage/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@78aea4b9{/storage/rdd,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a65bb85{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4b85880b{/environment,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4f936da8{/environment/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4215838f{/executors,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@452ba1db{/executors/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2289aca5{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@76a36b71{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@184497d1{/static,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5bda80bf{/,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@71e5f61d{/api,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@fd46303{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@60d8c0dc{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-02-05 16:02:49 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 16:02:49 INFO  Executor:54 - Starting executor ID driver on host localhost
+2021-02-05 16:02:49 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 44149.
+2021-02-05 16:02:49 INFO  NettyBlockTransferService:54 - Server created on ubuntu.internal.cloudapp.net:44149
+2021-02-05 16:02:49 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 16:02:49 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 44149, None)
+2021-02-05 16:02:49 INFO  BlockManagerMasterEndpoint:54 - Registering block manager ubuntu.internal.cloudapp.net:44149 with 884.7 MB RAM, BlockManagerId(driver, ubuntu.internal.cloudapp.net, 44149, None)
+2021-02-05 16:02:49 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 44149, None)
+2021-02-05 16:02:49 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, ubuntu.internal.cloudapp.net, 44149, None)
+2021-02-05 16:02:50 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@77e80a5e{/metrics/json,null,AVAILABLE,@Spark}
+2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 235.2 KB, free 884.5 MB)
+2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 22.9 KB, free 884.4 MB)
+2021-02-05 16:02:51 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on ubuntu.internal.cloudapp.net:44149 (size: 22.9 KB, free: 884.7 MB)
+2021-02-05 16:02:51 INFO  SparkContext:54 - Created broadcast 0 from textFile at Main.scala:8
+2021-02-05 16:02:51 INFO  FileInputFormat:249 - Total input paths to process : 1
+2021-02-05 16:02:51 INFO  SparkContext:54 - Starting job: collect at Main.scala:64
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Got job 0 (collect at Main.scala:64) with 1 output partitions
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Parents of final stage: List()
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Missing parents: List()
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68), which has no missing parents
+2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
+2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
+2021-02-05 16:02:51 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:44149 (size: 2.3 KB, free: 884.7 MB)
+2021-02-05 16:02:51 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2021-02-05 16:02:52 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 16:02:52 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2021-02-05 16:02:52 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
+2021-02-05 16:02:52 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2021-02-05 16:02:52 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/MaRe/players_20.csv:0+8945067
+2021-02-05 16:02:56 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2021-02-05 16:02:56 INFO  AbstractConnector:318 - Stopped Spark@5032afbf{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 16:02:56 INFO  SparkUI:54 - Stopped Spark web UI at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 16:02:56 INFO  DAGScheduler:54 - ResultStage 0 (collect at Main.scala:64) failed in 4.319 s due to Stage cancelled because SparkContext was shut down
+2021-02-05 16:02:56 INFO  DAGScheduler:54 - Job 0 failed: collect at Main.scala:64, took 4.528714 s
+2021-02-05 16:02:56 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2021-02-05 16:02:56 INFO  MemoryStore:54 - MemoryStore cleared
+2021-02-05 16:02:56 INFO  BlockManager:54 - BlockManager stopped
+2021-02-05 16:02:56 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2021-02-05 16:02:56 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2021-02-05 16:02:56 INFO  SparkContext:54 - Successfully stopped SparkContext
+2021-02-05 16:02:56 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 16:02:56 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-aae0e55d-3204-4da2-b6a3-16c428dfc5e1
+2021-02-05 16:03:20 INFO  SparkContext:54 - Running Spark version 2.3.2
+2021-02-05 16:03:20 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2021-02-05 16:03:20 INFO  SparkContext:54 - Submitted application: Project
+2021-02-05 16:03:20 INFO  SecurityManager:54 - Changing view acls to: root
+2021-02-05 16:03:20 INFO  SecurityManager:54 - Changing modify acls to: root
+2021-02-05 16:03:20 INFO  SecurityManager:54 - Changing view acls groups to: 
+2021-02-05 16:03:20 INFO  SecurityManager:54 - Changing modify acls groups to: 
+2021-02-05 16:03:20 INFO  SecurityManager:54 - SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(root); groups with view permissions: Set(); users  with modify permissions: Set(root); groups with modify permissions: Set()
+2021-02-05 16:03:21 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 42445.
+2021-02-05 16:03:21 INFO  SparkEnv:54 - Registering MapOutputTracker
+2021-02-05 16:03:21 INFO  SparkEnv:54 - Registering BlockManagerMaster
+2021-02-05 16:03:21 INFO  BlockManagerMasterEndpoint:54 - Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2021-02-05 16:03:21 INFO  BlockManagerMasterEndpoint:54 - BlockManagerMasterEndpoint up
+2021-02-05 16:03:21 INFO  DiskBlockManager:54 - Created local directory at /tmp/blockmgr-c87c9342-0cdf-4758-9da6-f32e0538e648
+2021-02-05 16:03:21 INFO  MemoryStore:54 - MemoryStore started with capacity 884.7 MB
+2021-02-05 16:03:21 INFO  SparkEnv:54 - Registering OutputCommitCoordinator
+2021-02-05 16:03:21 INFO  log:192 - Logging initialized @3492ms
+2021-02-05 16:03:22 INFO  Server:351 - jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+2021-02-05 16:03:22 INFO  Server:419 - Started @3645ms
+2021-02-05 16:03:22 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2021-02-05 16:03:22 INFO  AbstractConnector:278 - Started ServerConnector@32f0fba8{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 16:03:22 INFO  Utils:54 - Successfully started service 'SparkUI' on port 4041.
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6326d182{/jobs,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@751d3241{/jobs/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@76c7beb3{/jobs/job,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2cf92cc7{/jobs/job/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@30ea8c23{/stages,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@7b139eab{/stages/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4e76dac{/stages/stage,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@6273c5a4{/stages/stage/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5d465e4b{/stages/pool,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@53e211ee{/stages/pool/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@41a90fa8{/storage,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@3d8bbcdc{/storage/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@52500920{/storage/rdd,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@117e0fe5{/storage/rdd/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@18a3962d{/environment,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@78aea4b9{/environment/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2a65bb85{/executors,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4b85880b{/executors/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4f936da8{/executors/threadDump,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@4215838f{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@452ba1db{/static,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2d10e0b1{/,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1c98290c{/api,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@2ce86164{/jobs/job/kill,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@5e8f9e2d{/stages/stage/kill,null,AVAILABLE,@Spark}
+2021-02-05 16:03:22 INFO  SparkUI:54 - Bound SparkUI to 0.0.0.0, and started at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 16:03:22 INFO  Executor:54 - Starting executor ID driver on host localhost
+2021-02-05 16:03:22 INFO  Utils:54 - Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 34455.
+2021-02-05 16:03:22 INFO  NettyBlockTransferService:54 - Server created on ubuntu.internal.cloudapp.net:34455
+2021-02-05 16:03:22 INFO  BlockManager:54 - Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2021-02-05 16:03:22 INFO  BlockManagerMaster:54 - Registering BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 34455, None)
+2021-02-05 16:03:22 INFO  BlockManagerMasterEndpoint:54 - Registering block manager ubuntu.internal.cloudapp.net:34455 with 884.7 MB RAM, BlockManagerId(driver, ubuntu.internal.cloudapp.net, 34455, None)
+2021-02-05 16:03:22 INFO  BlockManagerMaster:54 - Registered BlockManager BlockManagerId(driver, ubuntu.internal.cloudapp.net, 34455, None)
+2021-02-05 16:03:22 INFO  BlockManager:54 - Initialized BlockManager: BlockManagerId(driver, ubuntu.internal.cloudapp.net, 34455, None)
+2021-02-05 16:03:22 INFO  ContextHandler:781 - Started o.s.j.s.ServletContextHandler@1d8e2eea{/metrics/json,null,AVAILABLE,@Spark}
+2021-02-05 16:03:23 INFO  MemoryStore:54 - Block broadcast_0 stored as values in memory (estimated size 235.2 KB, free 884.5 MB)
+2021-02-05 16:03:23 INFO  MemoryStore:54 - Block broadcast_0_piece0 stored as bytes in memory (estimated size 22.9 KB, free 884.4 MB)
+2021-02-05 16:03:23 INFO  BlockManagerInfo:54 - Added broadcast_0_piece0 in memory on ubuntu.internal.cloudapp.net:34455 (size: 22.9 KB, free: 884.7 MB)
+2021-02-05 16:03:23 INFO  SparkContext:54 - Created broadcast 0 from textFile at Main.scala:8
+2021-02-05 16:03:23 INFO  FileInputFormat:249 - Total input paths to process : 1
+2021-02-05 16:03:23 INFO  SparkContext:54 - Starting job: collect at Main.scala:54
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Got job 0 (collect at Main.scala:54) with 1 output partitions
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:54)
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Parents of final stage: List()
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Missing parents: List()
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68), which has no missing parents
+2021-02-05 16:03:24 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
+2021-02-05 16:03:24 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
+2021-02-05 16:03:24 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:34455 (size: 2.3 KB, free: 884.7 MB)
+2021-02-05 16:03:24 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
+2021-02-05 16:03:24 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 16:03:24 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
+2021-02-05 16:03:24 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
+2021-02-05 16:03:24 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
+2021-02-05 16:03:24 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/MaRe/players_20.csv:0+8945067
+2021-02-05 16:03:28 INFO  DockerHelper$:103 - Running container '9b9d4d8acce05b931252d74e116e72abdb9c0ae0a9755d4fe18ce3bbbdf4b3c9' (image: 'graphx:latest', command: 'java -cp project.jar com.yavuzozguven.Network > count.txt'
+2021-02-05 16:03:28 INFO  SparkContext:54 - Invoking stop() from shutdown hook
+2021-02-05 16:03:28 INFO  AbstractConnector:318 - Stopped Spark@32f0fba8{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
+2021-02-05 16:03:28 INFO  SparkUI:54 - Stopped Spark web UI at http://ubuntu.internal.cloudapp.net:4041
+2021-02-05 16:03:28 INFO  DAGScheduler:54 - Job 0 failed: collect at Main.scala:54, took 5.128875 s
+2021-02-05 16:03:28 INFO  DAGScheduler:54 - ResultStage 0 (collect at Main.scala:54) failed in 4.974 s due to Stage cancelled because SparkContext was shut down
+2021-02-05 16:03:29 INFO  MapOutputTrackerMasterEndpoint:54 - MapOutputTrackerMasterEndpoint stopped!
+2021-02-05 16:03:29 INFO  MemoryStore:54 - MemoryStore cleared
+2021-02-05 16:03:29 INFO  BlockManager:54 - BlockManager stopped
+2021-02-05 16:03:29 INFO  BlockManagerMaster:54 - BlockManagerMaster stopped
+2021-02-05 16:03:29 INFO  OutputCommitCoordinator$OutputCommitCoordinatorEndpoint:54 - OutputCommitCoordinator stopped!
+2021-02-05 16:03:29 INFO  SparkContext:54 - Successfully stopped SparkContext
+2021-02-05 16:03:29 INFO  ShutdownHookManager:54 - Shutdown hook called
+2021-02-05 16:03:29 INFO  ShutdownHookManager:54 - Deleting directory /tmp/spark-450bf657-86b9-4625-b0ab-138d9e50124c
