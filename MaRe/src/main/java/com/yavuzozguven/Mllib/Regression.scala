@@ -13,7 +13,7 @@ object Regression extends App {
       inputMountPoint = com.yavuzozguven.TextFile("/input"),
       outputMountPoint = com.yavuzozguven.TextFile("/output"),
       imageName = "mllib",
-      command = "java -cp mllib.jar com.yavuzozguven.Main > output")
+      command = "java -cp project.jar com.yavuzozguven.Regression > output")
     .rdd.collect()
 
   res.foreach(println(_))
