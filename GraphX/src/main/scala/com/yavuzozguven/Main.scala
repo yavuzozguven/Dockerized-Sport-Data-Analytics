@@ -75,7 +75,12 @@ object Main {
 
 
 
-    avg_pos.foreach(println(_))
+    if(args(0).equals("avg")) {
+      avg_pos.foreach(println(_))
+    }
+    if(args(0).equals("netw")){
+      netw.foreach(println(_))
+    }
 
 
     sparkContext.stop()
