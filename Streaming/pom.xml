@@ -69,6 +69,12 @@
             <version>2.6.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.pulsar</groupId>
+            <artifactId>pulsar-spark</artifactId>
+            <version>2.6.2</version>
+        </dependency>
+
     </dependencies>
 
 
