@@ -1,5 +1,3 @@
-package com.yavuzozguven;
-
 import java.nio.charset.StandardCharsets;
 import java.util.*;
 import com.linkedin.relevance.isolationforest.IsolationForestModel;

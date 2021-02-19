@@ -1,4 +1,4 @@
-package com.yavuzozguven
+package Mare
 
 import com.github.dockerjava.api.model.{Bind, Frame, PullResponseItem, Volume}
 import com.github.dockerjava.core.command.{AttachContainerResultCallback, PullImageResultCallback, WaitContainerResultCallback}
@@ -6,7 +6,6 @@ import com.github.dockerjava.core.{DefaultDockerClientConfig, DockerClientBuilde
 import org.apache.log4j.Logger
 
 import java.io.File
-import scala.collection.JavaConverters.seqAsJavaListConverter
 import scala.util.Properties
 
 private object DockerHelper {
@@ -101,7 +100,6 @@ private object DockerHelper {
       .withVolumes(volumes.asJava)
       .withBinds(binds.asJava)
       .exec
-
     log.info(
       s"Running container '${container.getId}' (image: '$cleanedImageName', command: '$command'")
     val t0 = System.currentTimeMillis()
@@ -113,17 +111,14 @@ private object DockerHelper {
       .withStdErr(true)
       .withStdOut(true)
       .withLogs(true)
-      .withFollowStream(true)
       .exec(new AttachLoggingCallback)
-      .awaitCompletion()
-
+      .awaitCompletion
 
     // Wait for container exit code
     log.info(s"Waiting for container ${container.getId}")
     val statusCode = dockerClient.waitContainerCmd(container.getId())
       .exec(new WaitContainerResultCallback())
       .awaitStatusCode()
-
     val t1 = System.currentTimeMillis()
     log.info(s"Container ${container.getId} took ${t1 - t0} ms")
 

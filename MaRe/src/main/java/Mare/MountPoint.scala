@@ -1,5 +1,4 @@
-package com.yavuzozguven
-
+package Mare
 
 import java.io.{File, FileOutputStream, OutputStreamWriter, PrintWriter}
 import java.nio.charset.Charset
@@ -8,7 +7,6 @@ import java.util.regex.Pattern
 import scala.io.Source
 
 /**
- * com.yavuzozguven.MountPoint defines how partitions are written to the a host path, and read back from it.
  *
  * @constructor
  * @param path mount point inside the Docker container
@@ -47,7 +45,6 @@ abstract class MountPoint[T](val path: String) extends Serializable {
 }
 
 /**
- *  com.yavuzozguven.TextFile mount point. Use this when processing large partitionable text files.
  *
  * @constructor
  * @param recordDelimiter record delimiter (default: \n)
@@ -90,10 +87,6 @@ case class TextFile(
 
 }
 
-/**
- *  com.yavuzozguven.WholeTextFiles mount point. Use this when processing many text files.
- *  @param charset character encoding (default: StandardCharsets.UTF_8)
- */
 case class WholeTextFiles(
                            override val path: String,
                            val charset: String = "UTF-8")
@@ -139,9 +132,7 @@ case class WholeTextFiles(
 
 }
 
-/**
- *  com.yavuzozguven.BinaryFiles mount point. Use this when processing many binary files.
- */
+
 case class BinaryFiles(override val path: String) extends MountPoint[(String, Array[Byte])](path) {
 
   def createEmptyMountPoint(hostPath: File): Unit = {

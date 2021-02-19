@@ -1,5 +1,6 @@
-package com.yavuzozguven.SQL
+package SQL
 
+import Mare.{MaRe, TextFile}
 import org.apache.spark.{SparkConf, SparkContext}
 
 object Sql extends App {
@@ -8,10 +9,10 @@ object Sql extends App {
 
 
   val rdd = sc.textFile("players_20.csv")
-  val res = new com.yavuzozguven.MaRe(rdd)
+  val res = new MaRe(rdd)
     .map(
-      inputMountPoint = com.yavuzozguven.TextFile("/input"),
-      outputMountPoint = com.yavuzozguven.TextFile("/output"),
+      inputMountPoint = TextFile("/input"),
+      outputMountPoint = TextFile("/output"),
       imageName = "sql",
       command = "java -jar sql.jar > output")
     .rdd.collect()

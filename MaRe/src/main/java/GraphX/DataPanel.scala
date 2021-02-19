@@ -1,13 +1,9 @@
-package com.yavuzozguven.GraphX
+package GraphX
 
-import java.awt.geom.Path2D
-import java.awt.{Color, Image}
+import java.awt.Color
 import java.io.File
-
 import javax.imageio.ImageIO
-
 import scala.swing.{Color, Graphics2D, Panel}
-import scala.util.Random
 
 class DataPanel(data: List[(Double,((String,(Int,Int)),Long))],network: List[((Double,Double),Long)]) extends Panel {
 

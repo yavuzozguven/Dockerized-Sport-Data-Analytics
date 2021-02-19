@@ -1,11 +1,9 @@
-package com.yavuzozguven
-
 import org.apache.spark.sql.SparkSession
 
 object Main {
   def main(args: Array[String]): Unit = {
     val session = SparkSession.builder.master("local").appName("SQL").getOrCreate
-    val df = session.read.options(Map("sep"->",", "header"-> "true")).
+    val df = session.read.options(Map("sep" -> ",", "header" -> "true")).
       csv("players_20.csv")
 
 

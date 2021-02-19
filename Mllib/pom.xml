@@ -22,7 +22,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>com.yavuzozguven.Regression</mainClass>
+                            <mainClass>Regression</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -1,24 +1,17 @@
-package com.yavuzozguven
-
+package Mare
 
 import org.apache.commons.io.FileUtils
 import org.apache.log4j.Logger
-import org.apache.spark.{HashPartitioner, Partitioner}
 import org.apache.spark.annotation.Experimental
 import org.apache.spark.rdd.RDD
 import org.apache.spark.storage.StorageLevel
+import org.apache.spark.{HashPartitioner, Partitioner}
 
 import java.io.File
 import java.util.UUID
 import scala.reflect.ClassTag
 import scala.util.Properties
 
-/**
- * com.yavuzozguven.MaRe API.
- *
- * @constructor
- * @param rdd input RDD
- */
 class MaRe[T: ClassTag](val rdd: RDD[T]) extends Serializable {
 
   @transient protected lazy val log = Logger.getLogger(getClass.getName)
@@ -33,7 +26,6 @@ class MaRe[T: ClassTag](val rdd: RDD[T]) extends Serializable {
   /**
    * Caches the underlying RDD in memory.
    *
-   * @return new com.yavuzozguven.MaRe object
    */
   def cache: MaRe[T] = {
     new MaRe(rdd.cache)
@@ -43,7 +35,6 @@ class MaRe[T: ClassTag](val rdd: RDD[T]) extends Serializable {
    * Repartitions the underlying RDD to the specified number of partitions.
    *
    * @param numPartitions number of partitions for the underlying RDD
-   * @return new com.yavuzozguven.MaRe object
    */
   def repartition(numPartitions: Int): MaRe[T] = {
     new MaRe(rdd.repartition(numPartitions))
@@ -57,7 +48,6 @@ class MaRe[T: ClassTag](val rdd: RDD[T]) extends Serializable {
    * @param imageName Docker image name
    * @param command Docker command
    * @param forcePull if set to true the Docker image will be pulled even if present locally
-   * @return new com.yavuzozguven.MaRe object
    */
   def map[U: ClassTag](
                         inputMountPoint: MountPoint[T],
@@ -108,7 +98,6 @@ class MaRe[T: ClassTag](val rdd: RDD[T]) extends Serializable {
    * @param command Docker command
    * @param depth depth of the reduce tree (default: 2, must be greater than or equal to 2)
    * @param forcePull if set to true the Docker image will be pulled even if present locally
-   * @return new com.yavuzozguven.MaRe object
    *
    */
   def reduce(

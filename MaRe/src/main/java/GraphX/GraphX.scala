@@ -1,6 +1,6 @@
-package com.yavuzozguven.GraphX
+package GraphX
 
-import com.yavuzozguven.{MaRe, TextFile}
+import Mare.{MaRe, TextFile}
 import org.apache.spark.{SparkConf, SparkContext}
 
 object GraphX extends App {
@@ -27,19 +27,18 @@ object GraphX extends App {
     .rdd
 
 
-
-  val avg_list : List[(Double,((String,(Int,Int)),Long))] = avg_pos.map{r=>
+  val avg_list: List[(Double, ((String, (Int, Int)), Long))] = avg_pos.map { r =>
     val toRemove = "()".toSet
     val words = r.filterNot(toRemove)
     val str = words.split(",")
-    (str(0).toDouble,((str(1).toString,(str(2).toInt,str(3).toInt)),str(4).toLong))
+    (str(0).toDouble, ((str(1).toString, (str(2).toInt, str(3).toInt)), str(4).toLong))
   }.collect().toList
 
-  val netw_list : List[((Double,Double),Long)] = netw.map{r=>
+  val netw_list: List[((Double, Double), Long)] = netw.map { r =>
     val toRemove = "()".toSet
     val words = r.filterNot(toRemove)
     val str = words.split(",")
-    ((str(0).toDouble,str(1).toDouble),str(2).toLong)
+    ((str(0).toDouble, str(1).toDouble), str(2).toLong)
   }.collect().toList
 
 

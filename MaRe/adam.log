@@ -105,16 +105,16 @@
 2021-02-05 15:48:51 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
 2021-02-05 15:48:51 INFO  DAGScheduler:54 - Parents of final stage: List()
 2021-02-05 15:48:51 INFO  DAGScheduler:54 - Missing parents: List()
-2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68), which has no missing parents
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68), which has no missing parents
 2021-02-05 15:48:51 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
 2021-02-05 15:48:51 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
 2021-02-05 15:48:51 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:32995 (size: 2.3 KB, free: 884.7 MB)
 2021-02-05 15:48:51 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
-2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:48:51 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
 2021-02-05 15:48:51 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
 2021-02-05 15:48:51 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
 2021-02-05 15:48:51 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
-2021-02-05 15:48:51 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.MaRe/players_20.csv:0+8945067
+2021-02-05 15:48:51 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.Mare.MaRe/players_20.csv:0+8945067
 2021-02-05 15:48:54 INFO  DockerHelper$:103 - Running container 'ee4206c541ee26fab13b5b9fbbcce405cee89534da68d0e83c55db3602b8383f' (image: 'anomaly:latest', command: 'java -jar project.jar > count.txt'
 2021-02-05 15:48:57 INFO  DockerHelper$:33 - STDERR: WARNING: An illegal reflective access operation has occurred
 WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/project.jar) to constructor java.nio.DirectByteBuffer(long,int)
@@ -412,16 +412,16 @@ WARNING: All illegal access operations will be denied in a future release
 2021-02-05 15:52:43 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
 2021-02-05 15:52:43 INFO  DAGScheduler:54 - Parents of final stage: List()
 2021-02-05 15:52:43 INFO  DAGScheduler:54 - Missing parents: List()
-2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68), which has no missing parents
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68), which has no missing parents
 2021-02-05 15:52:43 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
 2021-02-05 15:52:43 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
 2021-02-05 15:52:43 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:42911 (size: 2.3 KB, free: 884.7 MB)
 2021-02-05 15:52:43 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
-2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 15:52:43 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
 2021-02-05 15:52:43 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
 2021-02-05 15:52:43 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
 2021-02-05 15:52:43 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
-2021-02-05 15:52:43 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.MaRe/players_20.csv:0+8945067
+2021-02-05 15:52:43 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.Mare.MaRe/players_20.csv:0+8945067
 2021-02-05 15:52:46 INFO  DockerHelper$:103 - Running container 'a3c2e55df2bdb0970d4db74f0ba62141ef6ab010bbec029978130d9e0ba79d82' (image: 'anomaly:latest', command: 'java -jar project.jar > count.txt'
 2021-02-05 15:52:48 INFO  DockerHelper$:33 - STDERR: WARNING: An illegal reflective access operation has occurred
 WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/project.jar) to constructor java.nio.DirectByteBuffer(long,int)
@@ -619,16 +619,16 @@ WARNING: All illegal access operations will be denied in a future release
 2021-02-05 16:02:51 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:64)
 2021-02-05 16:02:51 INFO  DAGScheduler:54 - Parents of final stage: List()
 2021-02-05 16:02:51 INFO  DAGScheduler:54 - Missing parents: List()
-2021-02-05 16:02:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68), which has no missing parents
+2021-02-05 16:02:51 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68), which has no missing parents
 2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
 2021-02-05 16:02:51 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
 2021-02-05 16:02:51 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:44149 (size: 2.3 KB, free: 884.7 MB)
 2021-02-05 16:02:51 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
-2021-02-05 16:02:52 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 16:02:52 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
 2021-02-05 16:02:52 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
 2021-02-05 16:02:52 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
 2021-02-05 16:02:52 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
-2021-02-05 16:02:52 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.MaRe/players_20.csv:0+8945067
+2021-02-05 16:02:52 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.Mare.MaRe/players_20.csv:0+8945067
 2021-02-05 16:02:56 INFO  SparkContext:54 - Invoking stop() from shutdown hook
 2021-02-05 16:02:56 INFO  AbstractConnector:318 - Stopped Spark@5032afbf{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
 2021-02-05 16:02:56 INFO  SparkUI:54 - Stopped Spark web UI at http://ubuntu.internal.cloudapp.net:4041
@@ -709,16 +709,16 @@ WARNING: All illegal access operations will be denied in a future release
 2021-02-05 16:03:23 INFO  DAGScheduler:54 - Final stage: ResultStage 0 (collect at Main.scala:54)
 2021-02-05 16:03:23 INFO  DAGScheduler:54 - Parents of final stage: List()
 2021-02-05 16:03:23 INFO  DAGScheduler:54 - Missing parents: List()
-2021-02-05 16:03:23 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68), which has no missing parents
+2021-02-05 16:03:23 INFO  DAGScheduler:54 - Submitting ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68), which has no missing parents
 2021-02-05 16:03:24 INFO  MemoryStore:54 - Block broadcast_1 stored as values in memory (estimated size 3.9 KB, free 884.4 MB)
 2021-02-05 16:03:24 INFO  MemoryStore:54 - Block broadcast_1_piece0 stored as bytes in memory (estimated size 2.3 KB, free 884.4 MB)
 2021-02-05 16:03:24 INFO  BlockManagerInfo:54 - Added broadcast_1_piece0 in memory on ubuntu.internal.cloudapp.net:34455 (size: 2.3 KB, free: 884.7 MB)
 2021-02-05 16:03:24 INFO  SparkContext:54 - Created broadcast 1 from broadcast at DAGScheduler.scala:1039
-2021-02-05 16:03:24 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
+2021-02-05 16:03:24 INFO  DAGScheduler:54 - Submitting 1 missing tasks from ResultStage 0 (MapPartitionsRDD[2] at mapPartitions at com.yavuzozguven.Mare.MaRe.scala:68) (first 15 tasks are for partitions Vector(0))
 2021-02-05 16:03:24 INFO  TaskSchedulerImpl:54 - Adding task set 0.0 with 1 tasks
 2021-02-05 16:03:24 INFO  TaskSetManager:54 - Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 7898 bytes)
 2021-02-05 16:03:24 INFO  Executor:54 - Running task 0.0 in stage 0.0 (TID 0)
-2021-02-05 16:03:24 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.MaRe/players_20.csv:0+8945067
+2021-02-05 16:03:24 INFO  HadoopRDD:54 - Input split: file:/home/yavuzozguven/Desktop/com.yavuzozguven.Mare.MaRe/players_20.csv:0+8945067
 2021-02-05 16:03:28 INFO  DockerHelper$:103 - Running container '9b9d4d8acce05b931252d74e116e72abdb9c0ae0a9755d4fe18ce3bbbdf4b3c9' (image: 'graphx:latest', command: 'java -cp project.jar com.yavuzozguven.Network > count.txt'
 2021-02-05 16:03:28 INFO  SparkContext:54 - Invoking stop() from shutdown hook
 2021-02-05 16:03:28 INFO  AbstractConnector:318 - Stopped Spark@32f0fba8{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}
