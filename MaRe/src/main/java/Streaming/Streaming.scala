@@ -8,7 +8,7 @@ object Streaming extends App {
   val sc = new SparkContext(conf)
 
 
-  val rdd = sc.textFile("players_20.csv")
+  val rdd = sc.textFile("esports_sensors.csv")
   val res = new MaRe(rdd)
     .map(
       inputMountPoint = TextFile("/input"),

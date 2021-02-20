@@ -8,7 +8,7 @@ object GraphX extends App {
   val sc = new SparkContext(conf)
 
 
-  val rdd = sc.textFile("players_20.csv")
+  val rdd = sc.textFile("statsbomb_event.csv")
 
   val avg_pos = new MaRe(rdd)
     .map(
