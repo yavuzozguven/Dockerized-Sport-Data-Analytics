@@ -51,7 +51,7 @@ object Classification{
     val cols=Seq("ace","df","svpt","1stIn","1stWon","2ndWon","SvGms","bpSaved","bpFaced","seed","age","rank","rank_points","surfaceIndex","entryIndex")
 
 
-    for(i<-0until cols.size){
+    for(i<-0 until cols.size){
       df_winners=df_winners.withColumnRenamed(df_winners.columns(i),cols(i))
       df_losers=df_losers.withColumnRenamed(df_losers.columns(i),cols(i))
     }
@@ -132,6 +132,7 @@ object Classification{
 
     val auROC_dt=metrics_dt.areaUnderROC()
     println(s"decision tree area under ROC ${auROC_dt}")
+
 
 
     val dt_check=dt_preds.withColumn("correct",when(col("label").equalTo(col("prediction")),1).otherwise(0))

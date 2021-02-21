@@ -23,7 +23,7 @@ object Clustering{
 
     dff=assembler.transform(dff)
 
-    for(i<-2to 10){
+    for(i<-2 to 10){
       val kmeans=new KMeans().setK(i).setSeed(1L)
 
       val model=kmeans.fit(dff)

@@ -81,8 +81,6 @@
             <version>0.25.0</version>
             <scope>test</scope>
         </dependency>
-
-
         <dependency>
             <groupId>org.scala-lang.modules</groupId>
             <artifactId>scala-swing_2.11</artifactId>
